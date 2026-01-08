@@ -208,4 +208,4 @@ function pingPongChallenge() {
   }
 }
 
-console.log(pingPongChallenge())
+// console.log(pingPongChallenge())
